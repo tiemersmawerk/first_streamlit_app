@@ -20,3 +20,4 @@ fruits_to_show = my_fruit_list.loc[fruits_selected]
 # Display the table on the page.
 streamlit.dataframe(fruits_to_show)
 # Google Forms Excelsheet GUID: 1fm2dR2OEtAo5n3LwdYeGgsIOeytsB8YVHvXEeANrPzo
+# Google Forms link:  https://docs.google.com/spreadsheets/d/1fm2dR2OEtAo5n3LwdYeGgsIOeytsB8YVHvXEeANrPzo/edit?usp=sharing
